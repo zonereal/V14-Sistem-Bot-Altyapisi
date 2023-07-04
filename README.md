@@ -1,8 +1,8 @@
-# V14-Sistem-Bot-Altyapisi
+  # V14-Sistem-Bot-Altyapisi
 
-***Lourity Ve ZoneReal Tarafından Yapılmıştır***
+  ***Lourity Ve ZoneReal Tarafından Yapılmıştır***
 
-**KURULUM**
+  **KURULUM**
   CMD'yi Açıp *npm i discord.js* yazın Sonra                                                                                   
   CMD'yi Açıp *npm i discord.js* yazın Sonra
   CMD'ye *node index.js* Yazın
