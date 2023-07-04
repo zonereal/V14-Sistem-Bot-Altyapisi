@@ -3,6 +3,7 @@
   ***Lourity Ve ZoneReal Tarafından Yapılmıştır***
 
   **KURULUM**
+
   CMD'yi Açıp *npm i discord.js* yazın Sonra                                                                                   
   CMD'yi Açıp *npm i discord.js* yazın Sonra
   CMD'ye *node index.js* Yazın
